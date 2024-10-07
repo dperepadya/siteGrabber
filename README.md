@@ -18,4 +18,4 @@ This project is a simple Python script that scrapes publications from the SciPos
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sci-post-scraper.git
+   git clone https://github.com/dperepadya/siteGrabber.git
